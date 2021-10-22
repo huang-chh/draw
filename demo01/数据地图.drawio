@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T03:33:12.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Y5AARXPApNLY1aZZKSKm" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T04:51:26.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Fag-DlvoT-jO8_Zljwq_" version="15.5.8" type="github">
   <diagram id="xXGxKdt8iOO0uVpK90PG" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B2yYNU26rWNEv5t306j0-27" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B2yYNU26rWNEv5t306j0-26" vertex="1" connectable="0">
+        <mxCell id="B2yYNU26rWNEv5t306j0-27" value="建表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B2yYNU26rWNEv5t306j0-26" vertex="1" connectable="0">
           <mxGeometry x="-0.24" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -76,12 +76,12 @@
         <mxCell id="B2yYNU26rWNEv5t306j0-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B2yYNU26rWNEv5t306j0-23" target="B2yYNU26rWNEv5t306j0-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B2yYNU26rWNEv5t306j0-31" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B2yYNU26rWNEv5t306j0-29" vertex="1" connectable="0">
+        <mxCell id="B2yYNU26rWNEv5t306j0-31" value="更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B2yYNU26rWNEv5t306j0-29" vertex="1" connectable="0">
           <mxGeometry x="-0.2588" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B2yYNU26rWNEv5t306j0-23" value="是否新建表" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="B2yYNU26rWNEv5t306j0-23" value="建表OR更新" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-316" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B2yYNU26rWNEv5t306j0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="B2yYNU26rWNEv5t306j0-25" target="B2yYNU26rWNEv5t306j0-39" edge="1">
