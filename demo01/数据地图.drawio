@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T17:05:22.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tG-eXxrmtC9g3gFDwXjM" version="16.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-18T07:21:13.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="AVv_FZOpOyWJ2P7EvPoT" version="16.2.2" type="github" pages="8">
   <diagram id="xXGxKdt8iOO0uVpK90PG" name="第 1 页">
-    <mxGraphModel dx="1773" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -884,7 +884,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z_sktiqooig1q-WIA3R5" name="业务架构v2">
-    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jLvTzKtaB3QwnZYXZBhT-0" />
         <mxCell id="jLvTzKtaB3QwnZYXZBhT-1" parent="jLvTzKtaB3QwnZYXZBhT-0" />
@@ -1195,10 +1195,10 @@
           <mxGeometry x="535.25" y="380" width="143.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cpQSUrbGexrghc4T3ksW-145" value="是否补录完成" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="jLvTzKtaB3QwnZYXZBhT-1" vertex="1">
-          <mxGeometry x="549" y="397.5" width="105" height="25" as="geometry" />
+          <mxGeometry x="549" y="385" width="105" height="25" as="geometry" />
         </mxCell>
         <mxCell id="cpQSUrbGexrghc4T3ksW-147" value="是否包含违禁词" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="jLvTzKtaB3QwnZYXZBhT-1" vertex="1">
-          <mxGeometry x="549" y="445" width="105" height="25" as="geometry" />
+          <mxGeometry x="549" y="420" width="105" height="25" as="geometry" />
         </mxCell>
         <mxCell id="cpQSUrbGexrghc4T3ksW-149" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;direction=east;" parent="jLvTzKtaB3QwnZYXZBhT-1" vertex="1">
           <mxGeometry x="497.75" y="422.5" width="37.5" height="17.5" as="geometry" />
@@ -1208,6 +1208,9 @@
         </mxCell>
         <mxCell id="cpQSUrbGexrghc4T3ksW-151" value="：已建设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jLvTzKtaB3QwnZYXZBhT-1" vertex="1">
           <mxGeometry x="759" y="47.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ESXE3WX1prQPGHiV97op-0" value="是否设置生命周期" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="jLvTzKtaB3QwnZYXZBhT-1">
+          <mxGeometry x="549" y="455" width="105" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
