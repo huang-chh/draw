@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T12:39:13.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aH3sdiBF-CZoi1SN3XOF" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T12:51:58.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9siRN6spC3agVg_DoGgR" version="17.0.0" type="github">
   <diagram id="qJ0m2w71U7yKJZrXPG-A" name="复制">
     <mxGraphModel dx="1186" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,6 +58,73 @@
         </mxCell>
         <mxCell id="H5NDjA-Y6zHi6jl5L8wH-7" value="sql线程" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="115" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="450" width="366" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="H5NDjA-Y6zHi6jl5L8wH-21" target="H5NDjA-Y6zHi6jl5L8wH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-21" value="master" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="460" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;" edge="1" parent="1" source="H5NDjA-Y6zHi6jl5L8wH-24" target="H5NDjA-Y6zHi6jl5L8wH-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-23" value="日志传送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5NDjA-Y6zHi6jl5L8wH-22">
+          <mxGeometry x="-0.2459" y="-21" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-24" value="二进制日志&lt;br&gt;（binlog）" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=21.25;entryPerimeter=0;" edge="1" parent="1" source="H5NDjA-Y6zHi6jl5L8wH-25" target="H5NDjA-Y6zHi6jl5L8wH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=33.75;entryPerimeter=0;" edge="1" parent="1" source="H5NDjA-Y6zHi6jl5L8wH-25" target="H5NDjA-Y6zHi6jl5L8wH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-25" value="slave" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-26" value="中继日志&lt;br&gt;（relay log）" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5NDjA-Y6zHi6jl5L8wH-29" target="H5NDjA-Y6zHi6jl5L8wH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-28" value="写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5NDjA-Y6zHi6jl5L8wH-27">
+          <mxGeometry x="-0.2633" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-29" value="io线程" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="475" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="H5NDjA-Y6zHi6jl5L8wH-32" target="H5NDjA-Y6zHi6jl5L8wH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-31" value="读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5NDjA-Y6zHi6jl5L8wH-30">
+          <mxGeometry x="-0.0839" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-32" value="sql线程" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="535" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-33" value="快照" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="H5NDjA-Y6zHi6jl5L8wH-34" value="快照" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="515" width="60" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
