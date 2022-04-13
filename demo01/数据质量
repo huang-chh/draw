@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T07:17:58.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="adUtwLpoaehY3vdRVVRd" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-13T07:44:19.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="7RbviOQ-CMj3DPRpl9Ui" version="17.4.3" type="github" pages="2">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自主消费数据服务">
     <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="qGc609q3DQdL1TkX9AKl-7" value="ClickHouse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="480" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGc609q3DQdL1TkX9AKl-8" value="yarn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qGc609q3DQdL1TkX9AKl-8" value="livy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGc609q3DQdL1TkX9AKl-9" value="spark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
