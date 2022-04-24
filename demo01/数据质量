@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T05:34:50.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1B9yZL7528sacs62ijZP" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-24T06:37:09.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tS3zlzkVcSvNom9xMOqi" version="17.4.3" type="github" pages="3">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-802NfJbnOxVJRMQOEw0" name="埋点验数工具">
-    <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,8 +158,32 @@
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-13" value="产出规则结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ihMOUa3i9V9wKdB_IFv-15" value="1、业务埋点需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ihMOUa3i9V9wKdB_IFv-15" target="9ihMOUa3i9V9wKdB_IFv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-15" value="1、业务埋点需求&lt;br&gt;（搜推产品发起）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ihMOUa3i9V9wKdB_IFv-16" target="9ihMOUa3i9V9wKdB_IFv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-16" value="2、埋点需求讨论&lt;br&gt;（中台、搜推数据研发、搜推产品）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ihMOUa3i9V9wKdB_IFv-18" target="9ihMOUa3i9V9wKdB_IFv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-18" value="3、搜推数据埋点方案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ihMOUa3i9V9wKdB_IFv-20" target="9ihMOUa3i9V9wKdB_IFv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-20" value="4、需求埋点方案&lt;br&gt;（搜推埋点方案融合中台方案）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ihMOUa3i9V9wKdB_IFv-22" value="5、埋点方案确认（ddr）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
