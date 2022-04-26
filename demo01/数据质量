@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T07:44:47.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2rL29JKBmFrFIVV8s8cK" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-26T02:00:41.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="d6cRRiY6RAmy5ak--obr" version="17.4.3" type="github" pages="3">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,28 +282,28 @@
           <mxGeometry x="410" y="1010" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="730" y="780" width="260" height="240" as="geometry" />
+          <mxGeometry x="630" y="790" width="260" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-103" value="埋点需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="740" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-116" value="曝光_event_1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="740" y="820" width="110" height="50" as="geometry" />
+          <mxGeometry x="640" y="830" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-120" value="浏览_event_2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="740" y="890" width="110" height="50" as="geometry" />
+          <mxGeometry x="640" y="900" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-121" value="点击_event_3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="740" y="960" width="110" height="50" as="geometry" />
+          <mxGeometry x="640" y="970" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-122" value="曝光_event_11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="870" y="820" width="110" height="50" as="geometry" />
+          <mxGeometry x="770" y="830" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-123" value="浏览_event_12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="870" y="890" width="110" height="50" as="geometry" />
+          <mxGeometry x="770" y="900" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9ihMOUa3i9V9wKdB_IFv-124" value="点击_event_13" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="870" y="960" width="110" height="50" as="geometry" />
+          <mxGeometry x="770" y="970" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
