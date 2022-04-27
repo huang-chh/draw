@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T10:13:36.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="UPo5-jr1HP-YP-iNS1Xf" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-27T10:24:59.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KKM5lHrIr37R7CwSPQhs" version="17.4.6" type="github" pages="3">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,34 +369,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-1" value="1、抽样：随机抽样、按dt全量&lt;br&gt;2、解析：spark中解析&lt;br&gt;3、存储：解析结果存在临时表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="820" width="200" height="60" as="geometry" />
+          <mxGeometry x="360" y="810" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeozG2QaP13ge8la8Wj1-2" target="LeozG2QaP13ge8la8Wj1-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-2" value="按照埋点方案进行配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-3" value="规则配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-5" value="数据抽样" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeozG2QaP13ge8la8Wj1-7" target="LeozG2QaP13ge8la8Wj1-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-7" value="规则套餐执行" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-9" value="规则执行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="650" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-11" value="规则结果汇总" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LeozG2QaP13ge8la8Wj1-13" value="规则结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="780" width="60" height="30" as="geometry" />
+          <mxGeometry x="840" y="770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
