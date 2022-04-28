@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T06:26:29.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="M71_oHAT0E_27uNbleSx" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:44:02.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="j1JltwGVPZxl3SlBQtWk" version="17.4.6" type="github" pages="5">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,7 +402,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P3GDKdoKhGa_axH2tyOo" name="通用指标接入">
-    <mxGraphModel dx="1318" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,6 +598,56 @@
           <mxGeometry x="-0.432" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ovULLbgzOT6zHJceJnzN" name="通用指标接入链路">
+    <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="910" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-2" value="需求" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
+          <mxGeometry x="20" width="270" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-2" source="ZwDeBp_hPSN0i-qR-L1W-11" target="ZwDeBp_hPSN0i-qR-L1W-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-2">
+          <mxGeometry x="50" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-29" value="&lt;br&gt;需求讨论" style="whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-2">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-1" source="ZwDeBp_hPSN0i-qR-L1W-29" target="ZwDeBp_hPSN0i-qR-L1W-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-3" value="埋点" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
+          <mxGeometry x="290" width="300" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-15" target="ZwDeBp_hPSN0i-qR-L1W-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-15" value="是否需要埋点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
+          <mxGeometry x="20" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-20" value="是否有埋点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
+          <mxGeometry x="20" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-24" value="新增埋点" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
+          <mxGeometry x="140" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-25" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-20" target="ZwDeBp_hPSN0i-qR-L1W-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-26" value="埋点调整" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
+          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-4" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
+          <mxGeometry x="590" width="320" height="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
