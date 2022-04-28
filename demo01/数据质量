@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T06:20:54.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ioOK4qzh3IpN5ZifpqkM" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-28T06:23:34.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_0HOnb_pfEo1syiPCovf" version="17.4.6" type="github" pages="4">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -453,7 +453,7 @@
         <mxCell id="PS4jMy-vIksvROmwWiVr-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PS4jMy-vIksvROmwWiVr-57" source="PS4jMy-vIksvROmwWiVr-65" target="PS4jMy-vIksvROmwWiVr-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PS4jMy-vIksvROmwWiVr-95" value="是否新增非原子指标" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PS4jMy-vIksvROmwWiVr-57">
+        <mxCell id="PS4jMy-vIksvROmwWiVr-95" value="是否新增特异性指标" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="PS4jMy-vIksvROmwWiVr-57">
           <mxGeometry x="58.5" y="290" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PS4jMy-vIksvROmwWiVr-97" value="搜索数据研发部接口人" style="whiteSpace=wrap;html=1;" vertex="1" parent="PS4jMy-vIksvROmwWiVr-57">
