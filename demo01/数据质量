@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T10:44:02.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="j1JltwGVPZxl3SlBQtWk" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:56:55.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SxeoduUbB4Yn1zQeN4Ql" version="17.4.6" type="github" pages="5">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -608,7 +608,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="910" height="770" as="geometry" />
+          <mxGeometry x="40" y="90" width="1320" height="770" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-2" value="需求" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
           <mxGeometry x="20" width="270" height="770" as="geometry" />
@@ -625,14 +625,22 @@
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-1" source="ZwDeBp_hPSN0i-qR-L1W-29" target="ZwDeBp_hPSN0i-qR-L1W-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-3" value="埋点" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
-          <mxGeometry x="290" width="300" height="770" as="geometry" />
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-3" value="埋点接入" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
+          <mxGeometry x="290" width="710" height="770" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-15" target="ZwDeBp_hPSN0i-qR-L1W-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-36" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZwDeBp_hPSN0i-qR-L1W-33">
+          <mxGeometry x="-0.02" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-15" value="是否需要埋点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
           <mxGeometry x="20" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-37" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-20" target="ZwDeBp_hPSN0i-qR-L1W-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-20" value="是否有埋点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
           <mxGeometry x="20" y="180" width="80" height="80" as="geometry" />
@@ -644,10 +652,41 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-26" value="埋点调整" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
-          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-4" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
-          <mxGeometry x="590" width="320" height="770" as="geometry" />
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-40" value="走现有埋点" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
+          <mxGeometry x="140" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-15" target="ZwDeBp_hPSN0i-qR-L1W-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-42" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZwDeBp_hPSN0i-qR-L1W-41">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-38" value="生成默认埋点方案" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
+          <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-24" target="ZwDeBp_hPSN0i-qR-L1W-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-45" target="ZwDeBp_hPSN0i-qR-L1W-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-48" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZwDeBp_hPSN0i-qR-L1W-47">
+          <mxGeometry x="-0.3687" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-45" value="是否进行埋点调整" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-3">
+          <mxGeometry x="330" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-38" target="ZwDeBp_hPSN0i-qR-L1W-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-4" value="" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
+          <mxGeometry x="1000" width="320" height="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
