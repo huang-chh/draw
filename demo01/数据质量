@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T14:52:35.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1-A2PR9s6FRW0dje_yja" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T15:24:29.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="rECJWIU2jdw_26V0Wcdt" version="17.4.6" type="github" pages="5">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,7 +694,7 @@
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-3" source="ZwDeBp_hPSN0i-qR-L1W-26" target="ZwDeBp_hPSN0i-qR-L1W-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-4" value="埋点解析" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-4" value="埋点解析与中间表" style="swimlane;startSize=20;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-1">
           <mxGeometry x="770" width="320" height="770" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-54" value="埋点数据验证" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
@@ -709,16 +709,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-60" value="埋点数据解析" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
-          <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="310" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-61" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-4" source="ZwDeBp_hPSN0i-qR-L1W-56" target="ZwDeBp_hPSN0i-qR-L1W-60">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="390" />
+              <mxPoint x="160" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-62" value="中间层reports表" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
-          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-62" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="30" y="100" width="260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-4" source="ZwDeBp_hPSN0i-qR-L1W-60" target="ZwDeBp_hPSN0i-qR-L1W-62">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="40" y="130" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-80" value="搜索中间表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="55" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-81" value="Page粒度曝光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="40" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-82" value="SKU粒度曝光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="40" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-126" value="订单中间表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="40" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-125" value="点击中间表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="40" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-127" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="170" y="130" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-128" value="曝光中间表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="170" y="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-176" value="订单中间表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="170" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-175" value="点击中间表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="170" y="170" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-177" value="推荐中间表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-4">
+          <mxGeometry x="190" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZwDeBp_hPSN0i-qR-L1W-1" source="ZwDeBp_hPSN0i-qR-L1W-49" target="ZwDeBp_hPSN0i-qR-L1W-54">
           <mxGeometry relative="1" as="geometry" />
@@ -730,6 +768,9 @@
           <mxGeometry x="-0.44" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-67" value="数据聚合" style="swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="110" width="320" height="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
