@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T11:25:27.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="S0BWH-2lprozorI4k4Xu" version="17.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-29T11:26:57.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2XyhEb6I9OIj_nYsw9Rx" version="17.4.6" type="github" pages="6">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -839,7 +839,7 @@
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-285" value="关键词相关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-67">
           <mxGeometry x="70" y="617.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-286" value="指标体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-67">
+        <mxCell id="ZwDeBp_hPSN0i-qR-L1W-286" value="通用指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-67">
           <mxGeometry x="250" y="600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZwDeBp_hPSN0i-qR-L1W-290" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="ZwDeBp_hPSN0i-qR-L1W-67">
