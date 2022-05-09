@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T12:18:28.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="uagmmrrWdzeJ5Tb7Liia" version="17.4.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-09T12:18:57.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="D0UUqQR_jpijekQG1p-h" version="17.4.6" type="github" pages="8">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1517,7 +1517,7 @@
         <mxCell id="Jt8YBVrmPSjsbIyBMpec-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="1" source="Jt8YBVrmPSjsbIyBMpec-22" target="Jt8YBVrmPSjsbIyBMpec-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jt8YBVrmPSjsbIyBMpec-22" value="聚合数据" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Jt8YBVrmPSjsbIyBMpec-22" value="聚合层数据" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="264" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jt8YBVrmPSjsbIyBMpec-23" value="大盘数据" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
