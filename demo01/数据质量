@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T10:47:20.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fXwpuX3yApWNUl4tfkjY" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-09T12:03:18.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ABoyG01EIohq0nSJHxSl" version="17.4.6" type="github" pages="7">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1328,7 +1328,7 @@
             <mxPoint x="130" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9C1-0tIe8vRTcYpTRLgX-19" value="埋点沟通" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-4">
+        <mxCell id="9C1-0tIe8vRTcYpTRLgX-19" value="1、埋点沟通" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-4">
           <mxGeometry x="-0.2545" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1336,7 +1336,7 @@
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9C1-0tIe8vRTcYpTRLgX-48" target="9C1-0tIe8vRTcYpTRLgX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9C1-0tIe8vRTcYpTRLgX-54" value="埋点校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-7">
+        <mxCell id="9C1-0tIe8vRTcYpTRLgX-54" value="2、埋点校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-7">
           <mxGeometry x="0.2333" y="-3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -1375,7 +1375,7 @@
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="9C1-0tIe8vRTcYpTRLgX-24" target="9C1-0tIe8vRTcYpTRLgX-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9C1-0tIe8vRTcYpTRLgX-31" value="调整数据配置表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-30">
+        <mxCell id="9C1-0tIe8vRTcYpTRLgX-31" value="3、调整数据配置表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-30">
           <mxGeometry x="-0.0513" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1386,7 +1386,7 @@
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="9C1-0tIe8vRTcYpTRLgX-29" target="9C1-0tIe8vRTcYpTRLgX-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9C1-0tIe8vRTcYpTRLgX-34" value="数据聚合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-33">
+        <mxCell id="9C1-0tIe8vRTcYpTRLgX-34" value="4、数据聚合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-33">
           <mxGeometry y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
