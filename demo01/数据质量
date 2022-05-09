@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T10:07:02.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jykA261-BEQhG4oFfGyY" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-09T10:07:52.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Zwxa8Pr2Doyv9_ysPP6G" version="17.4.6" type="github" pages="7">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1407,16 +1407,16 @@
           <mxGeometry x="90" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-35" value="大盘数据" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="90" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-37" value="AB数据" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-38" value="P值数据" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="430" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-39" value="维度数据" style="whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="590" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-48" value="埋点详细方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="270" y="250" width="120" height="30" as="geometry" />
