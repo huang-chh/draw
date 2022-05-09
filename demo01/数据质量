@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T10:07:52.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Zwxa8Pr2Doyv9_ysPP6G" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-09T10:08:27.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LppUQkUqGF_bcWZ4Au6w" version="17.4.6" type="github" pages="7">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1323,9 +1323,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9C1-0tIe8vRTcYpTRLgX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9C1-0tIe8vRTcYpTRLgX-22" target="9C1-0tIe8vRTcYpTRLgX-3">
+        <mxCell id="9C1-0tIe8vRTcYpTRLgX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="9C1-0tIe8vRTcYpTRLgX-53" target="9C1-0tIe8vRTcYpTRLgX-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="280" as="sourcePoint" />
+            <mxPoint x="130" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-19" value="埋点沟通" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9C1-0tIe8vRTcYpTRLgX-4">
@@ -1347,8 +1347,9 @@
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-6" value="埋点事件验证结果" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="235" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9C1-0tIe8vRTcYpTRLgX-23" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="9C1-0tIe8vRTcYpTRLgX-20" target="9C1-0tIe8vRTcYpTRLgX-22">
+        <mxCell id="9C1-0tIe8vRTcYpTRLgX-23" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="9C1-0tIe8vRTcYpTRLgX-20">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="710" y="170" />
               <mxPoint x="100" y="170" />
@@ -1365,9 +1366,6 @@
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-20" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="670" y="225" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9C1-0tIe8vRTcYpTRLgX-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="70" y="250" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="9C1-0tIe8vRTcYpTRLgX-24" target="9C1-0tIe8vRTcYpTRLgX-29">
           <mxGeometry relative="1" as="geometry" />
@@ -1429,6 +1427,9 @@
         </mxCell>
         <mxCell id="9C1-0tIe8vRTcYpTRLgX-49" value="推荐位/素材字典" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9C1-0tIe8vRTcYpTRLgX-53" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
