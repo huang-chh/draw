@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T12:32:25.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OTOUrMWEgKrpVeLwEA86" version="17.4.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-09T12:51:30.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2Fi_2AguTueBsopcgnmB" version="17.4.6" type="github" pages="8">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1607,7 +1607,7 @@
           <mxGeometry x="320" y="170" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jt8YBVrmPSjsbIyBMpec-67" value="数据看板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="320" y="60" width="150" height="50" as="geometry" />
+          <mxGeometry x="320" y="70" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
