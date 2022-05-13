@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T06:39:28.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="u-Gxr8tqJlJLs9Yki8Us" version="18.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-13T09:04:15.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="PO-FjzfKWuSREe_sXnTM" version="18.0.2" type="github" pages="9">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1440,7 +1440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HM7XDQSNoa_KM_geeR6q" name="Page-8">
-    <mxGraphModel dx="1031" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1764,19 +1764,16 @@
         <mxCell id="k-1N1gu2P4CfqJcIWPMD-42" value="数据看板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="315" y="190" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k-1N1gu2P4CfqJcIWPMD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-1N1gu2P4CfqJcIWPMD-44" target="k-1N1gu2P4CfqJcIWPMD-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="k-1N1gu2P4CfqJcIWPMD-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="92" y="520" width="158" height="360" as="geometry" />
         </mxCell>
         <mxCell id="k-1N1gu2P4CfqJcIWPMD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-1N1gu2P4CfqJcIWPMD-45" target="k-1N1gu2P4CfqJcIWPMD-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k-1N1gu2P4CfqJcIWPMD-45" value="业务字典信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="108" y="563.5" width="122" height="33" as="geometry" />
+        <mxCell id="k-1N1gu2P4CfqJcIWPMD-45" value="业务字典信息&lt;br&gt;（推荐架构提供维表）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="556.75" width="122" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="k-1N1gu2P4CfqJcIWPMD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k-1N1gu2P4CfqJcIWPMD-46" target="k-1N1gu2P4CfqJcIWPMD-5">
+        <mxCell id="k-1N1gu2P4CfqJcIWPMD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-1N1gu2P4CfqJcIWPMD-46" target="k-1N1gu2P4CfqJcIWPMD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k-1N1gu2P4CfqJcIWPMD-67" value="3、埋点校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k-1N1gu2P4CfqJcIWPMD-54">
@@ -1784,8 +1781,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="luisncHs3R-VBlcY_b4r-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="k-1N1gu2P4CfqJcIWPMD-46" target="k-1N1gu2P4CfqJcIWPMD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luisncHs3R-VBlcY_b4r-3" value="&lt;font size=&quot;1&quot;&gt;4、埋点解析&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="luisncHs3R-VBlcY_b4r-2">
+          <mxGeometry x="0.0542" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k-1N1gu2P4CfqJcIWPMD-46" value="埋点元数据信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="820" width="122" height="30" as="geometry" />
+          <mxGeometry x="110" y="750" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k-1N1gu2P4CfqJcIWPMD-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;配置中心&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="687.5" width="90" height="25" as="geometry" />
