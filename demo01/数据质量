@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T06:10:59.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="GAAZbGT9w2sAwWCZugBu" version="18.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-17T06:11:38.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NSZEoelSgzA2-XwXsOWY" version="18.0.2" type="github" pages="10">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1900,16 +1900,16 @@
           <mxGeometry x="570" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yl0YD06y0C8hEybtSxFH-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fontSize=11;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="460" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yl0YD06y0C8hEybtSxFH-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fontSize=11;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="460" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="150" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yl0YD06y0C8hEybtSxFH-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fontSize=11;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yl0YD06y0C8hEybtSxFH-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fontSize=11;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="460" y="580" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="580" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
