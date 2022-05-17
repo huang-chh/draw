@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T07:15:35.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="k6iniZQOqnzdL8UeyA3A" version="18.0.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-17T07:15:48.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="QvK9Pf2yfbl3x61TyEZd" version="18.0.2" type="github" pages="10">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1860,7 +1860,7 @@
         <mxCell id="yl0YD06y0C8hEybtSxFH-14" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;提交规则检测&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yl0YD06y0C8hEybtSxFH-18" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;查看检测进度&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yl0YD06y0C8hEybtSxFH-18" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;查看检测结果&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yl0YD06y0C8hEybtSxFH-21" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;埋点抽样页面&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
