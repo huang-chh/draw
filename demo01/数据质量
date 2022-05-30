@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T03:10:26.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="a0sogFsqMLDIJ8FFNZzy" version="18.1.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-30T03:18:31.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="WXyDiAy6XUHHSe11HZv8" version="18.1.3" type="github" pages="10">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1856,6 +1856,33 @@
         </mxCell>
         <mxCell id="4j2onw8Z8QSlf64ab-cw-42" value="GDM离线数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="265" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4j2onw8Z8QSlf64ab-cw-50" target="4j2onw8Z8QSlf64ab-cw-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-50" value="需求创建" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4j2onw8Z8QSlf64ab-cw-51" target="4j2onw8Z8QSlf64ab-cw-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-51" value="埋点校验" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j2onw8Z8QSlf64ab-cw-53" target="4j2onw8Z8QSlf64ab-cw-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-53" value="数据加工" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4j2onw8Z8QSlf64ab-cw-55" target="4j2onw8Z8QSlf64ab-cw-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-55" value="权限开通" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4j2onw8Z8QSlf64ab-cw-57" value="完结" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="708" y="930" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
