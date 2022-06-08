@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T02:24:33.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="oHrZXBEj9FxIy2PQa-Wg" version="18.1.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-08T03:08:55.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="yj_24cUhhMRDrrETtlyF" version="18.1.3" type="github" pages="10">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1319,7 +1319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T-CdPtggBPTDw5Uz5wG6" name="Page-9">
-    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1484,7 +1484,7 @@
         <mxCell id="k-1N1gu2P4CfqJcIWPMD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k-1N1gu2P4CfqJcIWPMD-45" target="k-1N1gu2P4CfqJcIWPMD-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k-1N1gu2P4CfqJcIWPMD-45" value="业务字典信息&lt;br&gt;（推荐架构提供维表）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="k-1N1gu2P4CfqJcIWPMD-45" value="推荐埋点字典信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="108" y="556.75" width="122" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="k-1N1gu2P4CfqJcIWPMD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k-1N1gu2P4CfqJcIWPMD-46" target="k-1N1gu2P4CfqJcIWPMD-5" edge="1">
