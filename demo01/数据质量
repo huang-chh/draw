@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T06:53:42.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GLJjxM54PX6Xb6fD_RQo" version="19.0.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-21T06:53:57.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZANyRijaZgLGlqes3PZk" version="19.0.2" type="github" pages="11">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2050,7 +2050,7 @@
         <mxCell id="5WnOdp-Ymea7ELnAwmHw-10" value="XBP审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5WnOdp-Ymea7ELnAwmHw-11" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 10px;&quot;&gt;数据模型服务（Pass化看板接口）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5WnOdp-Ymea7ELnAwmHw-11" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 10px;&quot;&gt;数据模型服务（PAAS化看板接口）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210" y="327.5" width="230" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="5WnOdp-Ymea7ELnAwmHw-12" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 10px;&quot;&gt;统一维度服务接口&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
