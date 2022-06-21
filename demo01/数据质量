@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T06:51:55.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jCdS0VxJ-2a-_PyVSCbg" version="19.0.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-21T06:53:42.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GLJjxM54PX6Xb6fD_RQo" version="19.0.2" type="github" pages="11">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1975,7 +1975,7 @@
         <mxCell id="8p-vsBEFWKoER_tYHdyk-12" value="需求池" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="119" y="720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xBHCndn5-6BJ2cy-zuqn-6" value="埋点模板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xBHCndn5-6BJ2cy-zuqn-6" value="标准埋点模板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="209" y="650" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBHCndn5-6BJ2cy-zuqn-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
