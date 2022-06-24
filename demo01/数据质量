@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T01:35:49.700Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jgr20Ys4t5umOqKJ1iiH" version="19.0.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-24T02:22:39.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="D0chrSSxgLLPJx8ZpHfp" version="19.0.2" type="github" pages="11">
   <diagram id="F8gVFC2i-ktaWkdRmnyN" name="自助消费数据服务">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1944,7 +1944,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="esurTQMOBl1pMu3Gg5Zi" name="Page-13">
-    <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2143,7 +2143,7 @@
         <mxCell id="sCbfimyevJPeeedQ6BsG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCbfimyevJPeeedQ6BsG-7" target="sCbfimyevJPeeedQ6BsG-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sCbfimyevJPeeedQ6BsG-7" value="看板定制开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sCbfimyevJPeeedQ6BsG-7" value="看板配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="1000" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCbfimyevJPeeedQ6BsG-8" value="需求完结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2158,6 +2158,11 @@
         <mxCell id="sCbfimyevJPeeedQ6BsG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCbfimyevJPeeedQ6BsG-10" target="sCbfimyevJPeeedQ6BsG-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sCbfimyevJPeeedQ6BsG-28" value="埋点解析参数同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sCbfimyevJPeeedQ6BsG-25">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sCbfimyevJPeeedQ6BsG-10" value="埋点工具验证&lt;br&gt;埋点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="820" width="97" height="30" as="geometry" />
         </mxCell>
@@ -2170,7 +2175,7 @@
         <mxCell id="sCbfimyevJPeeedQ6BsG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sCbfimyevJPeeedQ6BsG-12" target="sCbfimyevJPeeedQ6BsG-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sCbfimyevJPeeedQ6BsG-12" value="看板配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sCbfimyevJPeeedQ6BsG-12" value="看板自动化呈现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="960" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sCbfimyevJPeeedQ6BsG-13" value="XBP完结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
