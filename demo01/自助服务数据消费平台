@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T03:34:28.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="5pNQUyPlZaJ_I9EeZsbC" type="github"><diagram id="io72LeCb9vzO-3Pxgxdb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-09T03:38:30.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SIgkSli0ZhbMxYkptvvF" version="20.0.4" type="github">
+  <diagram id="io72LeCb9vzO-3Pxgxdb" name="自助消费数据服务平台">
+    <mxGraphModel dx="903" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-2" value="数据服务&lt;br&gt;（可供应性）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-3" value="数据地图&lt;br&gt;（可搜索/获取性）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="150" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-4" value="自助分析&lt;br&gt;（可分析）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-5" value="数据集服务：自助取数&lt;br&gt;数据API服务：元数据API、&lt;br&gt;P值查询API" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-6" value="标签检索、&lt;br&gt;属性值检索、&lt;br&gt;关键词检索、&lt;br&gt;数据源快速接入、&lt;br&gt;数据血缘" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="244" y="250" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-7" value="easyBI、&lt;br&gt;可视化看板配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-8" value="运营产品&lt;br&gt;（可运营）" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="150" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-9" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7i9dB-XHeGoVbO67e1yc-10" value="自助消费数据服务平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="720" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
