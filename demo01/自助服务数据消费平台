@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T03:39:14.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MebYdc217ig3PyFmt1T0" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T04:26:53.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_Q_uTcIhKdUzPpzV9dH3" version="20.0.4" type="github" pages="2">
   <diagram id="io72LeCb9vzO-3Pxgxdb" name="自助消费数据服务平台">
     <mxGraphModel dx="903" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,6 +31,14 @@
         <mxCell id="7i9dB-XHeGoVbO67e1yc-10" value="自助消费数据服务平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="720" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EskcEvrKZqZyGKwo8KkI" name="Page-2">
+    <mxGraphModel dx="903" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
