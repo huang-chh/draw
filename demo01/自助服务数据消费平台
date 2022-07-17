@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T06:41:47.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fruK40dN66ri7YqwZCHN" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-17T11:19:45.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EBm8hYM1w-0KzWar2mXy" version="20.0.4" type="github" pages="5">
   <diagram id="io72LeCb9vzO-3Pxgxdb" name="自助消费数据服务平台">
     <mxGraphModel dx="903" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,6 +400,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y7QgX6fWe-9jYr7tZLx9-1" value="数据湖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="570" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ffDLRdYF5t12tAckrbqL" name="指标设计">
+    <mxGraphModel dx="903" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W-Uad6XH2ij3ZXxoFtYa-1" target="W-Uad6XH2ij3ZXxoFtYa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-1" value="解读指标定义，识别指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W-Uad6XH2ij3ZXxoFtYa-2" target="W-Uad6XH2ij3ZXxoFtYa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-2" value="基于指标叠加公式拆解指标" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W-Uad6XH2ij3ZXxoFtYa-4" target="W-Uad6XH2ij3ZXxoFtYa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-4" value="基于拆解结果，识别指标数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-6" value="数据落地匹配" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-8" value="指标拆解需求说明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-9" value="指标拆解设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W-Uad6XH2ij3ZXxoFtYa-10" value="指标与数据资产匹配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
