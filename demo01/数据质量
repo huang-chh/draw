@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T06:06:06.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="T8xMP0wUPkB0yPQSQwVn" version="20.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-07-19T06:13:41.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="elbre5UNKH4xYpkpVlQt" version="20.1.1" type="github" pages="12">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1371" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2263,7 +2263,7 @@
         <mxCell id="01lAZXxYdYW0FlMMgFXu-11" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、解析脚手架准备（字典表、维表、udf）&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、数据解析&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、中间表质量检测&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="195" y="369" width="128" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="01lAZXxYdYW0FlMMgFXu-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1、解析脚手架准备（维表、lvl工具）&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、数据解析&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、聚合表质量检测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="01lAZXxYdYW0FlMMgFXu-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1、解析脚手架准备（维表、udf、lvl工具）&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、数据解析&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、聚合表质量检测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="361" y="370" width="116" height="87" as="geometry" />
         </mxCell>
         <mxCell id="01lAZXxYdYW0FlMMgFXu-14" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1、后端服务编写&lt;br&gt;&lt;/span&gt;2、前端页面编写&lt;br&gt;3、看板测试" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -2286,6 +2286,15 @@
         </mxCell>
         <mxCell id="01lAZXxYdYW0FlMMgFXu-20" value="&lt;b&gt;权限配置&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="706" y="327" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="01lAZXxYdYW0FlMMgFXu-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="94" y="290" as="sourcePoint" />
+            <mxPoint x="724" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="392" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
