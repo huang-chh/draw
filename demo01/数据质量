@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T08:12:58.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6O8BylEhRjRoFoVAARZF" version="20.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-07-19T08:16:29.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-QGrxUQQy5ulKOEQ5vR7" version="20.1.1" type="github" pages="12">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1371" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2349,6 +2349,21 @@
         </mxCell>
         <mxCell id="iEWzJJhmSwYYYFsKlMs5-20" value="通用解析脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEWzJJhmSwYYYFsKlMs5-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="448" width="455" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iACWhQiM8uiLajwMtH6l-1" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;model + panel开发&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="456" width="221" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iACWhQiM8uiLajwMtH6l-2" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;统一维度服务管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="451" y="457" width="212" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iACWhQiM8uiLajwMtH6l-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="389" width="455" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iACWhQiM8uiLajwMtH6l-4" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;跨端&amp;amp;低代码前端开发平台&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="397" width="438" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
