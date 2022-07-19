@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T08:50:17.829Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KiDvX4vmfzcGSxI8mln0" version="20.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-07-19T08:54:22.014Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sJJ_VIRF3zLebJJpDntN" version="20.1.1" type="github" pages="12">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1371" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2388,6 +2388,30 @@
         </mxCell>
         <mxCell id="WsL3ksjgMbmvceuJBgaL-2" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="146" y="727" width="533" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="WsL3ksjgMbmvceuJBgaL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="317" width="532" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WsL3ksjgMbmvceuJBgaL-4" value="京霄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="324" width="113" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="WsL3ksjgMbmvceuJBgaL-5" value="商智" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="324" width="113" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="WsL3ksjgMbmvceuJBgaL-6" value="黄金眼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="324" width="113" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="WsL3ksjgMbmvceuJBgaL-7" value="指南针" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="556" y="325" width="113" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="WsL3ksjgMbmvceuJBgaL-8" value="IaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsL3ksjgMbmvceuJBgaL-9" value="PaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="516" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsL3ksjgMbmvceuJBgaL-10" value="SaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="328" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
