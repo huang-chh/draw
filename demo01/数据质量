@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T13:11:42.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UzXAM_uxtcAPAgJv-zBJ" version="20.1.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-07-26T13:12:06.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iXO35wMG9m6ZvQ3c7OFq" version="20.1.1" type="github" pages="13">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1376" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -372,7 +372,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PS4jMy-vIksvROmwWiVr-56" value="通用指标接入" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="49" y="70" width="730" height="1060" as="geometry" />
+          <mxGeometry x="49" y="70" width="730" height="1060" as="geometry">
+            <mxRectangle x="49" y="70" width="108" height="27" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PS4jMy-vIksvROmwWiVr-57" value="需求及埋点方案" style="swimlane;startSize=20;horizontal=0;" parent="PS4jMy-vIksvROmwWiVr-56" vertex="1">
           <mxGeometry y="20" width="730" height="450" as="geometry" />
