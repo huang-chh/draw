@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T13:12:36.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qC1tNiHMF2PpoFBaG7D2" version="20.1.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-07-27T06:47:10.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VCLIp0jeMC2HqPFqSFzL" version="20.1.1" type="github" pages="13">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1376" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1686,6 +1686,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="163" width="346" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IcpBLXUWaEHHd1-wpy3d-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="238" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcpBLXUWaEHHd1-wpy3d-2" target="IcpBLXUWaEHHd1-wpy3d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="149" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcpBLXUWaEHHd1-wpy3d-4" target="IcpBLXUWaEHHd1-wpy3d-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="334" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IcpBLXUWaEHHd1-wpy3d-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-10" value="埋点校验" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IcpBLXUWaEHHd1-wpy3d-12" target="IcpBLXUWaEHHd1-wpy3d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-12" value="埋点模板" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="310" width="98" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-21" value="埋点元信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="214" width="88" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-22" value="事件方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="242" width="88" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-24" value="看板入口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177" y="174" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-27" value="埋点需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362" y="173" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-31" value="需求信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="215" width="88" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-32" value="事件信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="242" width="88" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="IcpBLXUWaEHHd1-wpy3d-36" value="埋点核验工具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="124" width="77" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
