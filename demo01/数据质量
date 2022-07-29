@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T06:39:50.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nLGbQQr5KclzOBamuDsz" version="20.1.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-07-29T06:44:50.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KonsLSH_q8_TmW52W2ez" version="20.1.1" type="github" pages="13">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1376" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2117,7 +2117,7 @@
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-33" value="埋点需求入口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="869" y="468" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lv2yrVFLuwrC8izuj4TS-35" value="看板中心接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lv2yrVFLuwrC8izuj4TS-35" value="看板中心接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1127.5" y="472" width="118" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-36" value="手动录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2129,7 +2129,7 @@
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-38" value="事件类型方案（点击、曝光）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="992" y="427" width="189" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="Lv2yrVFLuwrC8izuj4TS-39" value="业务域方案（搜索业务域8个）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lv2yrVFLuwrC8izuj4TS-39" value="业务域方案（搜索业务域8个）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1194" y="428" width="187" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-41" value="埋点检测方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -2141,7 +2141,7 @@
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-43" value="天粒度全量抽取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="992" y="379" width="189" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="Lv2yrVFLuwrC8izuj4TS-44" value="天粒度采样抽样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lv2yrVFLuwrC8izuj4TS-44" value="天粒度采样抽样" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1194" y="380" width="187" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-45" value="数据抽样" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -2151,16 +2151,16 @@
           <mxGeometry x="982" y="321" width="409" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-47" value="空值率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="992" y="329" width="115" height="23" as="geometry" />
+          <mxGeometry x="992" y="329" width="91" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-49" value="规则实例组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="872" y="328" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-50" value="维度完整性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="329" width="115" height="23" as="geometry" />
+          <mxGeometry x="1096" y="329" width="85" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-51" value="字段有效性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="329" width="115" height="23" as="geometry" />
+          <mxGeometry x="1194" y="329" width="87" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="982" y="273" width="409" height="37" as="geometry" />
@@ -2169,13 +2169,16 @@
           <mxGeometry x="992" y="281" width="115" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-56" value="检测结果下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="281" width="115" height="23" as="geometry" />
+          <mxGeometry x="1124" y="281" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="Lv2yrVFLuwrC8izuj4TS-57" value="检测结果分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="281" width="115" height="23" as="geometry" />
+        <mxCell id="Lv2yrVFLuwrC8izuj4TS-57" value="检测结果分享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="281" width="119" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Lv2yrVFLuwrC8izuj4TS-58" value="检测结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="869" y="273" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lv2yrVFLuwrC8izuj4TS-59" value="字段有效性扩展" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="329" width="88" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
