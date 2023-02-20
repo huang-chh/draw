@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T15:04:00.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lsFjR5IRbQy1JqP-DFz6" version="20.8.20" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-20T15:12:12.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0nkvAEfdyqvpccocdkwo" version="20.8.20" type="github" pages="15">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1144" dy="741" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3879,6 +3879,27 @@
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-23" value="数据产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="37.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-26" value="埋点数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="770" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-28" value="埋点核验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-29" value="埋点数据加工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-30" value="脚手架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-31" value="中间层数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-32" value="buffo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-33" value="埋点解析脚手架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
