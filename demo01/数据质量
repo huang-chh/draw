@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T13:40:47.239Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="EZGcv0eCUxoyBxcDS87g" version="20.8.20" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-21T14:55:59.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="FY9LmloS6Co5A1ZhiYlV" version="20.8.20" type="github" pages="15">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1144" dy="741" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3825,7 +3825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tv2zUOuz1E8O9AIGnJC8" name="第 15 页">
-    <mxGraphModel dx="1383" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3919,20 +3919,17 @@
         <mxCell id="VZaaBuSgqnNA3PdIB-iA-14" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FF6666;strokeWidth=2;fontSize=14;fillColor=none;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="217.5" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VZaaBuSgqnNA3PdIB-iA-26" value="埋点元数据&lt;br&gt;DSL协议" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="800" width="100" height="40" as="geometry" />
+        <mxCell id="VZaaBuSgqnNA3PdIB-iA-26" value="统一埋点解析" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="880" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZaaBuSgqnNA3PdIB-iA-27" value="埋点核验" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="800" width="100" height="40" as="geometry" />
+          <mxGeometry x="130" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZaaBuSgqnNA3PdIB-iA-28" value="埋点解析" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="800" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="760" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VZaaBuSgqnNA3PdIB-iA-29" value="看板上线" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;strokeWidth=1;fontSize=14;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="800" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VZaaBuSgqnNA3PdIB-iA-30" value="buffo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="790" width="90" height="30" as="geometry" />
+        <mxCell id="VZaaBuSgqnNA3PdIB-iA-30" value="buffo任务调度引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="820" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
