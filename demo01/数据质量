@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T15:12:12.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0nkvAEfdyqvpccocdkwo" version="20.8.20" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-02-21T02:19:37.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QwE54efZ3VB8AMCYc3uD" version="20.8.20" type="github" pages="15">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1144" dy="741" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3825,21 +3825,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tv2zUOuz1E8O9AIGnJC8" name="第 15 页">
-    <mxGraphModel dx="1144" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xqe0hM_JYmk9rjspbQ-X-1" value="埋点数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="310" width="380" height="50" as="geometry" />
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="380" height="50" as="geometry" />
+          <mxGeometry x="170" y="240" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-3" value="主站中间层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="247.5" width="160" height="35" as="geometry" />
+          <mxGeometry x="180" y="247.5" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xqe0hM_JYmk9rjspbQ-X-4" value="垂站中间层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="247.5" width="160" height="35" as="geometry" />
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-4" value="垂站中间层" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="247.5" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-6" value="标准化搜推数仓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="90" height="30" as="geometry" />
@@ -3848,22 +3848,22 @@
           <mxGeometry x="90" y="320" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-9" value="多维聚合层&amp;amp;应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="170" width="380" height="50" as="geometry" />
+          <mxGeometry x="170" y="170" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="380" height="50" as="geometry" />
+          <mxGeometry x="170" y="100" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-15" value="数据集服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="107.5" width="160" height="35" as="geometry" />
+          <mxGeometry x="180" y="107.5" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-16" value="数据API服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="107.5" width="160" height="35" as="geometry" />
+          <mxGeometry x="360" y="107.5" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-17" value="数据服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="30" width="380" height="50" as="geometry" />
+          <mxGeometry x="170" y="30" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-19" value="自助取数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="37.5" width="70" height="35" as="geometry" />
@@ -3893,13 +3893,19 @@
           <mxGeometry x="600" y="420" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-31" value="中间层数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="500" width="220" height="60" as="geometry" />
+          <mxGeometry x="250" y="460" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-32" value="buffo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="680" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqe0hM_JYmk9rjspbQ-X-33" value="埋点解析脚手架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="680" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-34" value="server埋点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="317.5" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xqe0hM_JYmk9rjspbQ-X-35" value="客户端埋点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="317.5" width="160" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
