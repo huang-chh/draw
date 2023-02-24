@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T03:32:22.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4YuO7mgtVtoiHr3JZy7F" version="20.8.20" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-02-24T03:32:33.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="n658174fzojXjrewhoCt" version="20.8.20" type="github" pages="19">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1144" dy="741" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4460,7 +4460,7 @@
         <mxCell id="4VbjvpAEaHQgAN049bG7-36" value="指南针" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="200" y="57.5" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4VbjvpAEaHQgAN049bG7-37" value="素材效果诊断" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1;fontSize=12;gradientDirection=east;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="4VbjvpAEaHQgAN049bG7-37" value="素材诊断" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1;fontSize=12;gradientDirection=east;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="138" y="140" width="82" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4VbjvpAEaHQgAN049bG7-38" value="低价心智" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1;fontSize=12;gradientDirection=east;strokeColor=none;" vertex="1" parent="1">
