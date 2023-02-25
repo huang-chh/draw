@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T14:01:21.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bIGmmtJ5RcGtBsMy6ClO" version="20.8.20" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-02-25T14:01:48.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Wj0dqIm9z9Dr5Kzx-Y87" version="20.8.20" type="github" pages="20">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1144" dy="741" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4518,11 +4518,11 @@
         </mxCell>
         <mxCell id="BZSTG2bUZumFHoIbH7zf-47" value="xbp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#B0B0B0;" vertex="1" connectable="0" parent="BZSTG2bUZumFHoIbH7zf-41">
           <mxGeometry x="-0.2161" y="1" relative="1" as="geometry">
-            <mxPoint x="-44" y="1" as="offset" />
+            <mxPoint x="-32" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BZSTG2bUZumFHoIbH7zf-39" value="&lt;b&gt;埋点信息&lt;/b&gt;&lt;br&gt;事件Id、事件类型、渠道等信息" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;dashed=1;strokeWidth=1;fontSize=14;gradientDirection=east;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="331.88" width="150" height="63.25" as="geometry" />
+          <mxGeometry x="130.26" y="331.87" width="150" height="63.25" as="geometry" />
         </mxCell>
         <mxCell id="BZSTG2bUZumFHoIbH7zf-44" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeWidth=1;fontSize=14;gradientDirection=east;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="89" y="231" width="781" height="9" as="geometry" />
@@ -4537,7 +4537,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BZSTG2bUZumFHoIbH7zf-46" value="推荐架构侧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#B0B0B0;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="396.5" width="85" height="30" as="geometry" />
+          <mxGeometry x="162.76" y="396.5" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
