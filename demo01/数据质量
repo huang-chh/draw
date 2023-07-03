@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T06:57:20.672Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="noGLN_HEtw3dj3IzHXB-" version="21.2.1" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2023-07-03T06:57:31.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sq7c2WDTq71MtqbBufml" version="21.2.1" type="github" pages="24">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1137" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5362,9 +5362,6 @@
         </mxCell>
         <mxCell id="9Dk1P7g0lIT6gl1YQDfW-23" value="主站素材分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1;fontSize=12;gradientDirection=east;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="162.5" width="95" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9Dk1P7g0lIT6gl1YQDfW-26" value="&lt;font color=&quot;#cc0000&quot;&gt;搜&lt;br&gt;推&lt;br&gt;数&lt;br&gt;据PaaS化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="522" y="333.75" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9Dk1P7g0lIT6gl1YQDfW-27" value="&lt;font color=&quot;#cc0000&quot;&gt;后&lt;br&gt;端&lt;br&gt;服&lt;br&gt;务&lt;br&gt;架&lt;br&gt;构&lt;br&gt;升&lt;br&gt;级&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="522" y="140" width="40" height="110" as="geometry" />
