@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T07:05:03.236Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UfQ9AEb3ru9Jw2-0uOLZ" version="21.2.1" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2023-07-11T02:45:02.573Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CxaONLOpSISMLqtQYjxz" version="21.5.2" type="github" pages="24">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
-    <mxGraphModel dx="1137" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-802NfJbnOxVJRMQOEw0" name="埋点验数工具">
-    <mxGraphModel dx="1371" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,7 +367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P3GDKdoKhGa_axH2tyOo" name="通用指标接入">
-    <mxGraphModel dx="1144" dy="741" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -570,7 +570,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ovULLbgzOT6zHJceJnzN" name="通用指标接入链路">
-    <mxGraphModel dx="1383" dy="771" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1038,7 +1038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Lfxo-PySe-kH4iXyv7Rs" name="链路模型管理">
-    <mxGraphModel dx="1383" dy="771" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1286,7 +1286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="esurTQMOBl1pMu3Gg5Zi" name="推荐位PAAS化">
-    <mxGraphModel dx="1383" dy="771" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1518,10 +1518,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kvt5zoCIAR9tQwRDprQf" name="搜推数据PaaS化建设">
-    <mxGraphModel dx="1383" dy="771" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CQQQA544pozgxmCevxc2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CQQQA544pozgxmCevxc2-20" target="CQQQA544pozgxmCevxc2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1781" width="206" height="231" as="geometry" />
+        </mxCell>
         <mxCell id="WsL3ksjgMbmvceuJBgaL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="146" y="379" width="532" height="336" as="geometry" />
         </mxCell>
@@ -2347,11 +2353,59 @@
         <mxCell id="nx17QYMMEfpkTgKwM5bs-118" value="看板配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="903" y="1249" width="64" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CQQQA544pozgxmCevxc2-4" target="CQQQA544pozgxmCevxc2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-4" value="A站点任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="1834" width="98" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CQQQA544pozgxmCevxc2-5" target="CQQQA544pozgxmCevxc2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-5" value="B站点任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="1889" width="98" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CQQQA544pozgxmCevxc2-6" target="CQQQA544pozgxmCevxc2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-6" value="C站点任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="1944" width="98" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CQQQA544pozgxmCevxc2-7" target="CQQQA544pozgxmCevxc2-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-7" value="应用层加工入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1872" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-12" value="曝光逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="1822" width="115" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-13" value="点击逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="1863" width="115" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-14" value="订单逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="1911" width="115" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-16" value="组装逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="1959" width="115" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-21" value="通用解析逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1780" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CQQQA544pozgxmCevxc2-22" target="CQQQA544pozgxmCevxc2-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-22" value="应用表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="643" y="1866" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CQQQA544pozgxmCevxc2-25" value="看板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="812" y="1867" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="RYOrVO-4CbbRXZt3cvtk" name="埋点工具-搜索">
-    <mxGraphModel dx="1144" dy="741" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2596,7 +2650,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nsba_gmBnxawJ9bpIhTt" name="Track与埋点工具">
-    <mxGraphModel dx="1144" dy="741" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2954,7 +3008,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WXaqGHTy3or3j8QBE4ro" name="埋点解析通用脚本设计">
-    <mxGraphModel dx="1383" dy="771" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3072,7 +3126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ub2ufsvefD6h9cKAAq01" name="自动化加工平台">
-    <mxGraphModel dx="1382" dy="771" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3296,7 +3350,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T-CdPtggBPTDw5Uz5wG6" name="Page-9">
-    <mxGraphModel dx="1382" dy="771" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3504,7 +3558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qg6MaZV2RHynuRNsDo9B" name="Page-10">
-    <mxGraphModel dx="1382" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3620,7 +3674,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JunurAMQwi37XiOD_U4R" name="Page-12">
-    <mxGraphModel dx="1382" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3825,7 +3879,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tv2zUOuz1E8O9AIGnJC8" name="第 15 页">
-    <mxGraphModel dx="1382" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
