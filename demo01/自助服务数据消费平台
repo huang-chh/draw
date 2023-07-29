@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T03:03:17.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QcR1j0b7FBr0kRqlBNHD" version="20.3.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-29T07:41:10.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="El5_Bx5QJney2EK0Q6hf" version="21.6.3" type="github" pages="6">
   <diagram id="io72LeCb9vzO-3Pxgxdb" name="自助消费数据服务平台">
-    <mxGraphModel dx="1371" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="735" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -473,7 +473,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ffDLRdYF5t12tAckrbqL" name="指标设计">
-    <mxGraphModel dx="1371" dy="801" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="735" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,6 +506,65 @@
         </mxCell>
         <mxCell id="W-Uad6XH2ij3ZXxoFtYa-10" value="指标与数据资产匹配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="260" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l3wX3UQiSk5Wt08acQV6" name="SF大数据概述">
+    <mxGraphModel dx="1134" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-1" value="Oozie(工作流调度系统)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-3" value="Hive(SQL处理)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-4" value="PIG(脚本处理)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-5" value="Spark&lt;br&gt;SQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-6" value="Spark&lt;br&gt;Streaming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-7" value="MLlib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-8" value="GraphX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-9" value="MapReduce&lt;br&gt;(分布式处理框架)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-10" value="Spark&lt;br&gt;(分布式内存计算)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-11" value="YARN&lt;br&gt;(分布式资源管理器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-12" value="HBase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="50" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-13" value="Flume&lt;br&gt;日志收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-14" value="Sqoop&lt;br&gt;数据交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-15" value="Ambari(分布式集群配置管理工具)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="710" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-16" value="Zoo&lt;br&gt;keeper&lt;br&gt;(分布式协调服务)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="50" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-17" value="HDFS&lt;br&gt;(Hadoop分布式文件系统)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iq2zB2CpETW6SOW2pI4a-18" value="Hadoop生态系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="370" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
