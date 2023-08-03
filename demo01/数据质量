@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T03:30:45.929Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RZJ2uBoyLw2ZwP--CO74" version="21.6.6" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2023-08-03T09:56:26.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="I6Ha-8NDqNq58J7pzpEq" version="21.6.6" type="github" pages="24">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1134" dy="735" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2754,6 +2754,62 @@
         </mxCell>
         <mxCell id="JqjFu752fZqYSBDn30IO-152" value="AB实验模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1302" y="2460" width="122" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JqjFu752fZqYSBDn30IO-155" target="JqjFu752fZqYSBDn30IO-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-155" value="需求产生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="2128" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JqjFu752fZqYSBDn30IO-156" target="JqjFu752fZqYSBDn30IO-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-156" value="数据埋点&lt;br&gt;（GDM）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="2128" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-157" value="子午线" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2146" width="22" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-158" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JqjFu752fZqYSBDn30IO-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="2146" as="sourcePoint" />
+            <mxPoint x="164" y="2137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-159" value="搜推产品" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="2147" width="22" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-161" value="业务" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="69" y="2126" width="22" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-162" value="搜推产品" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="131" y="2146" width="22" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-163" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;标准埋点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="2113" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JqjFu752fZqYSBDn30IO-168" target="JqjFu752fZqYSBDn30IO-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-168" value="JRC平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2128" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqjFu752fZqYSBDn30IO-172" target="JqjFu752fZqYSBDn30IO-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="708" y="2246" />
+              <mxPoint x="555" y="2246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-172" value="京霄平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="663" y="2128" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-174" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;XBP&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="2114" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JqjFu752fZqYSBDn30IO-177" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;看板回调&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="594" y="2216" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
