@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T10:48:27.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rhwaouMkDPTy_8SJ6_FQ" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T13:05:55.892Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="e5cSEJZ-TT5P-he5x0nU" version="21.6.6" type="github">
   <diagram name="系统监控" id="kISr_TE2GQifkpPX-Tt2">
-    <mxGraphModel dx="1304" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,7 +356,7 @@
           <mxGeometry x="860" y="245" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-186" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="610" y="292.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="610" y="292.5" width="110" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-187" value="慢SQL(mysql)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="616" y="320" width="98" height="20" as="geometry" />
@@ -382,14 +382,8 @@
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-194" value="DT" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="864" y="157.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VF0tN7SBPmrfUBdGYC7z-195" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="610" y="347.5" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-196" value="mysql数据源" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="616" y="375" width="98" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VF0tN7SBPmrfUBdGYC7z-197" value="JED监控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="634" y="347.5" width="56" height="25" as="geometry" />
+          <mxGeometry x="614.25" y="361.25" width="98" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-198" value="JVM线程数" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="245" width="65" height="30" as="geometry" />
