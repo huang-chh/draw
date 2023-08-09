@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T01:39:32.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WhCYb6M_51mUivIYTfD8" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T01:50:37.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7PnWaPo7k5v9RJQtLVRp" version="21.6.6" type="github">
   <diagram name="系统监控" id="kISr_TE2GQifkpPX-Tt2">
     <mxGraphModel dx="1031" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,10 +271,10 @@
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-156" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="520" y="117.5" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VF0tN7SBPmrfUBdGYC7z-157" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="VF0tN7SBPmrfUBdGYC7z-157" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="127.5" width="90" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="VF0tN7SBPmrfUBdGYC7z-158" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="VF0tN7SBPmrfUBdGYC7z-158" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="127.5" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-160" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
@@ -376,10 +376,10 @@
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-192" value="数据质量平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="623.75" y="127.5" width="92.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="VF0tN7SBPmrfUBdGYC7z-193" value="维度字典" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="VF0tN7SBPmrfUBdGYC7z-193" value="维度字典" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="750" y="157.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VF0tN7SBPmrfUBdGYC7z-194" value="DT" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="VF0tN7SBPmrfUBdGYC7z-194" value="DT" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="864" y="157.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-196" value="mysql数据源" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
@@ -420,12 +420,6 @@
         </mxCell>
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-209" value="SGM平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="754" y="37.5" width="55" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="VF0tN7SBPmrfUBdGYC7z-210" value="Buffalo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="757.5" y="127.5" width="55" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="VF0tN7SBPmrfUBdGYC7z-211" value="Buffalo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="867.5" y="127.5" width="55" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VF0tN7SBPmrfUBdGYC7z-213" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="980" y="27.5" width="20" height="10" as="geometry" />
