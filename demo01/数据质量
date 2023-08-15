@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T09:18:52.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kgL5Ygl1Lt5W6ppmeMeo" version="21.6.6" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2023-08-15T09:21:13.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9tvx96_xEfc3f-GMvdTE" version="21.6.6" type="github" pages="24">
   <diagram id="g7QNM29Ndc2Ff1YrB0Yp" name="数据质量工程化">
     <mxGraphModel dx="1135" dy="735" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5018,6 +5018,15 @@
         </mxCell>
         <mxCell id="jpQppyvN-I-T9cIuwsib-5" value="京霄看板" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="790.13" y="180" width="71.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQppyvN-I-T9cIuwsib-7" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;①&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQppyvN-I-T9cIuwsib-8" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;②&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="513.26" y="200" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpQppyvN-I-T9cIuwsib-9" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;③&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="821.63" y="200" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
