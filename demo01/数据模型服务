@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T12:48:30.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZdoJ5t2QeUBHiYyO3-8y" version="22.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-16T12:49:46.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GV8kuOEfcGPIuZEY1naM" version="22.1.2" type="github" pages="7">
   <diagram id="SlPDFQp83r-Od32_gmx8" name="Page-1">
     <mxGraphModel dx="1434" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -961,7 +961,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aXqIX7J8LKgRQRZ51VY4-57" value="&lt;ol&gt;&lt;li&gt;流量类型：jdr_sch_traffic_flow_source=0&lt;/li&gt;&lt;li&gt;去作弊：filter_anti_uuid_flag=0&lt;/li&gt;&lt;li&gt;渠道：chan_type=0&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="aXqIX7J8LKgRQRZ51VY4-57" value="&lt;ol&gt;&lt;li&gt;流量类型：jdr_sch_traffic_flow_source=0&lt;/li&gt;&lt;li&gt;去作弊：filter_anti_uuid_flag=0&lt;/li&gt;&lt;li&gt;渠道：platform_cate_1=0&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="65" y="1385" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aXqIX7J8LKgRQRZ51VY4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aXqIX7J8LKgRQRZ51VY4-58" target="aXqIX7J8LKgRQRZ51VY4-62">
