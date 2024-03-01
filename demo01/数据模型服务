@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T02:23:48.980Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wBs2rvOa6ZukgEQbFlF5" version="23.1.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-01T02:24:50.368Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IqH2xSoADFITV0diXV_k" version="23.1.6" type="github" pages="9">
   <diagram id="SlPDFQp83r-Od32_gmx8" name="Page-1">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1478,14 +1478,14 @@
         <mxCell id="NgYuD9Qh0Fd2zotisl98-2" value="多维聚合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NgYuD9Qh0Fd2zotisl98-3" value="T-1数据任务（增量）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="140" width="70" height="30" as="geometry" />
+        <mxCell id="NgYuD9Qh0Fd2zotisl98-3" value="T-1数据任务（增量数据）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NgYuD9Qh0Fd2zotisl98-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="130" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NgYuD9Qh0Fd2zotisl98-6" value="刷岗任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="25" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="NgYuD9Qh0Fd2zotisl98-6" value="刷岗任务&lt;br&gt;（历史数据）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="25" y="210" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NgYuD9Qh0Fd2zotisl98-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1630,8 +1630,8 @@
         <mxCell id="NgYuD9Qh0Fd2zotisl98-68" value="短期SLA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="285" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NgYuD9Qh0Fd2zotisl98-69" value="存在不一致的情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="NgYuD9Qh0Fd2zotisl98-69" value="明细与多维存在不一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="160" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
