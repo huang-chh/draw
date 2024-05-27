@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T04:09:03.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KzialUF1i2N6gCNXaL91" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-27T11:54:50.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vSAaDJRQ8ZxKHzpaZCh7" version="24.4.7" type="github" pages="11">
   <diagram id="SlPDFQp83r-Od32_gmx8" name="Page-1">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1810,6 +1810,26 @@
         </mxCell>
         <mxCell id="a6SuzIWH0-sS_F0J9Ml0-69" value="同比贡献度计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="560" width="86" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZVmpyI22ugz5NcexRNZ5" name="第 11 页">
+    <mxGraphModel dx="1593" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cyBAIsnpVshbKdKAD6jP-1" value="&lt;pre style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size: 16px; font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; margin-top: 0px; margin-bottom: 1em; overflow: auto; font-variant-ligatures: no-common-ligatures; background-color: rgb(255, 255, 255);&quot; data-lang=&quot;sql&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;SELECT&lt;br&gt;  t.sku_id sku_id,&lt;br&gt;  sum(t.search_ord_out_ord_user_qtty) search_ord_out_ord_user_qtty,&lt;br&gt;  sum(t.search_uv) search_uv&lt;br&gt;FROM (&lt;br&gt;  SELECT&lt;br&gt;    t.sku sku_id,&lt;br&gt;    t.sku, &lt;/span&gt;&lt;font color=&quot;#ff3333&quot;&gt;--1、冗余一层分组关系&lt;/font&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;br&gt;    sum(t.order_uv_out) search_ord_out_ord_user_qtty,&lt;br&gt;    max(t.uv) search_uv &lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;--2、需要使用SUM函数&lt;/font&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#333333&quot;&gt;  FROM sr_data_ofl_mix.sr_app_search_aggr_sku_detp_cid_local_d t &lt;br&gt;  WHERE (&lt;br&gt;    (t.dt &amp;gt;= &#39;2024-05-05&#39;)&lt;br&gt;    AND (t.dt &amp;lt;= &#39;2024-05-05&#39;)&lt;br&gt;    AND (t.app_edition = -999)&lt;br&gt;    AND (t.search_scene = &#39;search&#39;)&lt;br&gt;    AND (t.flow_source = 0)&lt;br&gt;    AND (t.chan_type = &#39;app&#39;)&lt;br&gt;  )&lt;br&gt;  GROUP BY&lt;br&gt;    t.sku,&lt;br&gt;    t.sku&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size: 16px; font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; margin-top: 0px; margin-bottom: 1em; overflow: auto; font-variant-ligatures: no-common-ligatures; background-color: rgb(255, 255, 255);&quot; data-lang=&quot;sql&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;--3、为了进行数据预过滤，这里需要补充一层排序及limit&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#333333&quot;&gt;  SETTINGS distributed_group_by_no_merge = 1&lt;br&gt;) t&lt;br&gt;GROUP BY t.sku_id&lt;br&gt;ORDER BY search_uv desc &lt;br&gt; LIMIT 2000&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="660" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="cyBAIsnpVshbKdKAD6jP-2" value="&lt;pre style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size: 16px; font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; margin-top: 0px; margin-bottom: 1em; overflow: auto; color: rgb(51, 51, 51); font-variant-ligatures: no-common-ligatures; background-color: rgb(255, 255, 255);&quot; data-lang=&quot;plaintext&quot;&gt;SELECT&lt;br&gt;  t.sku_id sku_id,&lt;br&gt;  sum(t.search_ord_out_ord_user_qtty) search_ord_out_ord_user_qtty,&lt;br&gt;  sum(t.search_uv) search_uv&lt;br&gt;FROM (&lt;br&gt;  SELECT&lt;br&gt;    t.sku sku_id,&lt;br&gt;    sum(t.order_uv_out) search_ord_out_ord_user_qtty,&lt;br&gt;    sum(t.uv) search_uv&lt;br&gt;  FROM sr_data_ofl_mix.sr_app_search_aggr_sku_detp_cid_local_d t &lt;br&gt;    AND (t.search_scene = &#39;search&#39;)&lt;br&gt;    AND (t.flow_source = 0)&lt;br&gt;    AND (t.chan_type = &#39;app&#39;)&lt;br&gt;  )&lt;br&gt;  GROUP BY&lt;br&gt;    t.sku&lt;br&gt;  ORDER BY search_uv desc&lt;br&gt;  limit 2500&lt;br&gt;  SETTINGS distributed_group_by_no_merge = 1&lt;br&gt;) t&lt;br&gt;GROUP BY t.sku_id&lt;br&gt;ORDER BY search_uv desc &lt;br&gt; LIMIT 2000&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="827" y="80" width="650" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="cyBAIsnpVshbKdKAD6jP-4" value="现有SQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyBAIsnpVshbKdKAD6jP-6" value="目标SQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
